@@ -49,9 +49,6 @@ p, span {
 
 body{
   margin: 0px;
-  /* The image used */
-  /* background-image: url("https://user-images.githubusercontent.com/22170286/61590905-803b8b80-abbf-11e9-87d5-0e4dd74d780a.png"); */
-
   /* Full height */
   height: 100%; 
   
@@ -74,7 +71,7 @@ body:before{
   background-repeat: repeat;
   background-size: contain;
   position: absolute;
-  background-image: url('https://user-images.githubusercontent.com/22170286/61591251-e1b22900-abc4-11e9-9685-aa62a0e373d9.png')
+  background-image: url('https://user-images.githubusercontent.com/22170286/61592776-0237ae80-abd8-11e9-8796-dbb4443c5ef4.png')
 }
 
 html{
